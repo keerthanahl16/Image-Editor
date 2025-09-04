@@ -50,7 +50,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 # Install packages
 pip install opencv-python matplotlib numpy jupyter
 
-
+---
 Usage
 
 Launch the Jupyter environment:
@@ -67,7 +67,7 @@ Load and view images.
 Apply image editing techniques (e.g. filters, transformations).
 
 Compare results (OpenCV vs. Matplotlib if applicable).
-
+---
 Technologies Used
 
 Python – Programming language.
@@ -79,7 +79,7 @@ OpenCV (cv2) – Powerful image processing library.
 Matplotlib – Visualization library, useful for image display.
 
 NumPy – For numerical operations on images.
-
+---
 Contributing
 
 Contributions are welcome! You could:
@@ -99,12 +99,12 @@ Create a branch (git checkout -b perf-enhancements)
 Commit your changes
 
 Open a Pull Request
-
+---
 License
 
 This project is licensed under the MIT License.Feel free to specify the license you prefer.
 
-
+---
 Acknowledgments
 
 Thanks to the contributors of OpenCV, Matplotlib, and all open-source tools used in this project!
